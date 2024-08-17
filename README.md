@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# React Infinite Scroll
+
+This app implements infinite scroll using react custom hook, useEffect and useState
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
